@@ -6,12 +6,15 @@ Scene text recognition model for tensorflow (keras)
 -https://github.com/faustomorales/keras-ocr
 
 base model :efficientnet, 
+
 rnn:BiLSTM,gru,lstm
+
 loss: CTC, Attention 
 
-python 3.6.1, tensorflow 2.3.1
 
-### TODO
+### python 3.6.1, tensorflow 2.3.1
+
+## TODO
 
 - [ ] text detection model
 - [ ] creat data set

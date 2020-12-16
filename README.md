@@ -33,4 +33,4 @@ loss: CTC, Attention
 ## TODO
 
 - [ ] text detection model
-- [ ] creat data set
+- [ ] create data set

@@ -8,7 +8,9 @@
 
 ----------------------------------------
 ### requirement
-python 3.6.1, tensorflow 2.3.1
+python 3.6.1
+
+tensorflow 2.3.1
 
 keras_radam
 
@@ -17,6 +19,8 @@ efficientnet
 numpy
 
 opencv-python
+
+itertools
 
 ### model
 base model :efficientnet, 

@@ -1,7 +1,8 @@
 # ocr_text_recognition_keras_tf2
-Scene text recognition based model: CRAFT (CRNN) 
+Scene text recognition model for tensorflow (keras)
 
 -https://github.com/clovaai/deep-text-recognition-benchmark
+
 -https://github.com/faustomorales/keras-ocr
 
 base model :efficientnet, 
